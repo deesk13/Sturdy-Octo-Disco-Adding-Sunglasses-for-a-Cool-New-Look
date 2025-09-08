@@ -102,4 +102,4 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 
 ![image](https://github.com/user-attachments/assets/659f946d-8723-4909-bc89-89cb8357f83a)
 
-Feel free to fork, contribute, or customize this project for your creative needs!
+
